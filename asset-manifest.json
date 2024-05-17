@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jankenrich/static/css/main.02fa7041.css",
+    "main.js": "/jankenrich/static/js/main.4329feb3.js",
+    "static/js/453.243529bf.chunk.js": "/jankenrich/static/js/453.243529bf.chunk.js",
+    "index.html": "/jankenrich/index.html",
+    "main.02fa7041.css.map": "/jankenrich/static/css/main.02fa7041.css.map",
+    "main.4329feb3.js.map": "/jankenrich/static/js/main.4329feb3.js.map",
+    "453.243529bf.chunk.js.map": "/jankenrich/static/js/453.243529bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02fa7041.css",
+    "static/js/main.4329feb3.js"
+  ]
+}
